@@ -1,6 +1,8 @@
 # Hey 👋, I'm yuiseki
 
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
+[![Twitter](https://img.shields.io/twitter/follow/yuiseki?style=sociall)](https://twitter.com/yuiseki)
+
 
 
 ## 詳しいプロフィール
