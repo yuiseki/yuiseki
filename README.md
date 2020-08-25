@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 
 
-## プロフィール
+## 詳しいプロフィール
 
 https://scrapbox.io/yuiseki/yuiseki
 
