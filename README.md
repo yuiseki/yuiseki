@@ -4,5 +4,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
+![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
 
