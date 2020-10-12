@@ -4,27 +4,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki?style=social)](https://twitter.com/yuiseki)
 
 
-## 興味関心
-- 位置情報
-- 自然言語処理
-  - ニュースの収集分析
-  - Twitterの収集分析
-- 画像処理
-  - 類似画像検索
-  - 物体認識
-- VR
-  - WebXR
-
-## 最近ハマってるプログラミング言語や技術
-- Node.js
-- Typescript
-- React
-- Electron
-- babylon.js
-- Firebase
-- Docker + Cloud Run
-
-
 ## 詳しいプロフィール
 
 https://scrapbox.io/yuiseki/yuiseki
@@ -40,6 +19,11 @@ https://scrapbox.io/yuiseki/yuiseki
   - ポジション
   - 裁量
   - 勤務地・勤務形態
+- もしも……もしも世界を救うための仕事のオファーだったら今すぐにでも転職します
+  - 以下の組織からのオファーでしたら即座に転職します
+  - United Nationsおよびその下部組織
+  - World Bank Groupおよびその下部組織
+  - Bill & Melinda Gates Foundationおよびその下部組織
 
 
 ## Github ステータス
