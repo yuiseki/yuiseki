@@ -11,6 +11,10 @@ https://scrapbox.io/yuiseki/yuiseki
 
 ## ジョブオファーについて
 - 2022年までは転職を考えていません
+  - 以下の組織からのオファーでしたら即座に転職します
+  - United Nationsおよびその下部組織
+  - World Bank Groupおよびその下部組織
+  - Bill & Melinda Gates Foundationおよびその下部組織
 - 個人事業としてYouTuberをやっているので副業許可必須です
 - 定時規定・残業規定なしの完全裁量労働制で1000万円～
   - 在宅勤務の場合800万円～
@@ -19,11 +23,6 @@ https://scrapbox.io/yuiseki/yuiseki
   - ポジション
   - 裁量
   - 勤務地・勤務形態
-- もしも……もしも世界を救うための仕事のオファーだったら今すぐにでも転職します
-  - 以下の組織からのオファーでしたら即座に転職します
-  - United Nationsおよびその下部組織
-  - World Bank Groupおよびその下部組織
-  - Bill & Melinda Gates Foundationおよびその下部組織
 
 
 ## Github ステータス
