@@ -19,9 +19,6 @@ https://scrapbox.io/yuiseki/yuiseki
       - UNDRR
     - 世界規模で活動を展開している非営利財団/NGO
       - Bill & Melinda Gates Foundation
-      - Electronic Frontier Foundation
-      - Wikimedia Foundation, Inc.
-      - Creative Commons
       - Kiva
       - ICRC
 - 個人事業としてYouTuberをやっているので副業許可必須です
