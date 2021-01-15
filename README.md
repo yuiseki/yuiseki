@@ -7,45 +7,71 @@
 
 - 2004-2008
   - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
-  - Bachelor degree of Environmental and Information Studies
+    - Bachelor degree of Environmental and Information Studies
 - 2008-2010
   - Keio University, Graduate School of Media and Governance
-  - Master of Media and Governance
+    - Master degree of Media and Governance
 - 2008-2009
   - Metacast Inc.
+    - Software engineer, Part time
 - 2009-2018
   - Cerevo Inc.
+    - Software engineer, Part time
+    - Software engineer
 - 2019-
   - Nota Inc.
+    - Software engineer
+    - Project manager
 
 ## More detailed profile
 
 https://scrapbox.io/yuiseki/yuiseki
 
 
-## ジョブオファーについて
-- 2022年までは転職を考えていません
-  - 以下の組織からのオファーでしたら即座に転職を検討します
-    - United Nationsの下部組織
+## Skils
+- Linux
+  - Experience more than 20 years
+- Shellscript
+  - Experience more than 10 years
+- Ruby
+  - Experience more than 10 years
+- Ruby on Rails
+  - Experience more than 10 years
+- Python
+  - Experience more than 10 years
+- Javascript
+  - Experience more than 10 years
+- Java
+  - Experience more than 5 years
+- Objective-C
+  - Experience more than 5 years
+- MySQL
+  - Experience more than 10 years
+- MongoDB
+  - Experience more than 5 years
+- Redis
+  - Experience more than 10 years
+
+## About job offering
+- I'm not thinking of changing jobs until 2022.
+  - But, I will immediately consider a career change if offered by the following organizations
+    - Subordinate organizations of the United Nations
       - World Bank
       - IMF
       - WHO
       - UNDRR
-    - 世界規模で活動を展開している非営利財団/NGO
+    - Non-profit foundation/NGO with global reach
       - Bill & Melinda Gates Foundation
       - Kiva
       - ICRC
-- 個人事業としてYouTuberをやっているので副業許可必須です
-- 定時規定・残業規定なしの完全裁量労働制で1000万円～
-  - 在宅勤務の場合800万円～
-- ジョブオファーメールを送る場合は以下を明記してください
-  - 想定年俸
-  - ポジション
-  - 裁量
-  - 勤務地・勤務形態
+- When you sending a job offer email to me, please include the following
+  - Position
+  - Annual salary
+  - Discretion of jobs
+  - Work location
+  - Work style
 
-
-## Github ステータス
+## Github status
 
 ![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
 
