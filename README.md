@@ -57,8 +57,8 @@ I'm strongly interested in crawling, scraping Web and data minings.
 In connection with the above, I'm interested for utilization of collected information.
 For that reason, I'm also interested NLP, GIS and Image Recognition.
 
-And more, I'm interested in development of hardwares.
-Because it's interesting to see how software works in the real world.
+And more, I'm interested in development of hardwares called IoT.
+Because it's very interesting to see how software works in the real world.
 
 
 ## More detailed profile
