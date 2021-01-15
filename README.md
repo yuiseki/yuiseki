@@ -28,17 +28,17 @@
 ## Skils
 - Linux
   - Experience more than 20 years
-- HTML/CSS
-  - Experience more than 20 years
 - Shellscript
   - Experience more than 10 years
+- HTML/CSS
+  - Experience more than 20 years
+- Javascript
+  - Experience more than 15 years
 - Ruby
   - Experience more than 10 years
 - Ruby on Rails
   - Experience more than 10 years
 - Python
-  - Experience more than 10 years
-- Javascript
   - Experience more than 10 years
 - Java
   - Experience more than 5 years
