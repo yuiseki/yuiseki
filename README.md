@@ -3,7 +3,8 @@
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
 
-## Profile
+
+## Career
 
 - 2004-2008
   - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
@@ -22,10 +23,6 @@
   - Nota Inc.
     - Software engineer
     - Project manager
-
-## More detailed profile
-
-https://scrapbox.io/yuiseki/yuiseki
 
 
 ## Skils
@@ -54,6 +51,21 @@ https://scrapbox.io/yuiseki/yuiseki
 - Redis
   - Experience more than 10 years
 
+
+## Interest
+I'm strongly interested in crawling, scraping Web and data minings.
+In connection with the above, I'm interested for utilization of Collected Information.
+For that reason, I'm also interested NLP, GIS and Image Recognition.
+
+And more, I'm interested in development of hardwares.
+Because it's interesting to see how software works in the real world.
+
+
+## More detailed profile
+
+https://scrapbox.io/yuiseki/yuiseki
+
+
 ## About job offering
 - I'm not thinking of changing jobs until 2022.
   - But, I will immediately consider a career change if offered by the following organizations
@@ -72,6 +84,7 @@ https://scrapbox.io/yuiseki/yuiseki
   - Discretion of jobs
   - Work location
   - Work style
+
 
 ## Github status
 
