@@ -54,7 +54,7 @@
 
 ## Interest
 I'm strongly interested in crawling, scraping Web and data minings.
-In connection with the above, I'm interested for utilization of Collected Information.
+In connection with the above, I'm interested for utilization of collected information.
 For that reason, I'm also interested NLP, GIS and Image Recognition.
 
 And more, I'm interested in development of hardwares.
