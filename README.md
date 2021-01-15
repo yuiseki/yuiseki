@@ -31,6 +31,8 @@ https://scrapbox.io/yuiseki/yuiseki
 ## Skils
 - Linux
   - Experience more than 20 years
+- HTML/CSS
+  - Experience more than 20 years
 - Shellscript
   - Experience more than 10 years
 - Ruby
