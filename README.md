@@ -3,8 +3,22 @@
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki?style=social)](https://twitter.com/yuiseki)
 
+## Profile
 
-## 詳しいプロフィール
+- 2004-2008
+  - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
+  - Bachelor degree of Environmental and Information Studies
+- 2008-2010
+  - Keio University, Graduate School of Media and Governance
+  - Master of Media and Governance
+- 2008-2009
+  - Metacast Inc.
+- 2009-2018
+  - Cerevo Inc.
+- 2019-
+  - Nota Inc.
+
+## More detailed profile
 
 https://scrapbox.io/yuiseki/yuiseki
 
