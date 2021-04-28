@@ -7,6 +7,7 @@
 
 - Follow my heart.
 - Keep saying to "Even so still".
+- Don't pretend not to see.
 - Be the saviour of the broken, the beaten and the damned.
 
 
