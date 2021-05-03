@@ -5,8 +5,8 @@
 
 ## Github status
 
-![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
 ![yuiseki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c)
+![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
 
 ## My mission
 
