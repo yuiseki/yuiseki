@@ -10,6 +10,8 @@
 
 ## My mission
 
+1. Punk rockers shouldn't follow anything.
+2. Punk rockers shouldn't insure their behavior.
 - Follow my heart.
 - Keep saying to "Even so still".
 - Don't pretend not to see.
