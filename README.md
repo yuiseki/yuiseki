@@ -37,6 +37,16 @@
   - Nota Inc.
     - Software engineer
     - Project manager
+      - Scale
+        - ten million user
+        - 2 billion contents
+        - 1 PB transfar amount
+      - Managed following product lines
+        - Web
+        - Windows
+        - macOS
+        - Android
+        - iOS
 
 
 ## Skils
