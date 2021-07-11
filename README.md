@@ -41,7 +41,7 @@
         - ten million user
         - 2 billion contents
         - 1 PB transfar amount
-      - Managed following product lines
+      - Managing following product lines
         - Web
         - Windows
         - macOS
