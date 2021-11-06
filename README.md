@@ -3,10 +3,12 @@
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
 
+
 ## Github status
 
 ![yuiseki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
 ![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
+
 
 ## My mission
 
@@ -47,6 +49,21 @@
         - macOS
         - Android
         - iOS
+
+
+## Publication
+- 2007
+  - グラフィティコミュニティのためのマップのデザイン, 日本デザイン学会　第54回研究発表大会
+    - https://www.jstage.jst.go.jp/article/jssd/54/0/54_0_C16/_article/-char/ja/
+  - コミュニティ形成のためのマルチレイヤーマップのデザイン -ライブハウスコミュニティを事例として-, 日本デザイン学会　第54回研究発表大会
+- 2008
+  - ギークのコミュニティ--Webを媒介としたプログラミング学習環境, Bachelor's thesis, 武蔵工業大学 環境情報学部 情報メディアセンタージャーナル 2008.4 第9号
+    - http://www.yc.tcu.ac.jp/~cisj/09/09_05.pdf
+- 2010
+  - 街に着目したTwitterメッセージの自動収集と分析システムの提案と試作, 電子情報通信学会
+    - http://www.interaction-ipsj.org/archives/paper2010/demo/0131/0131.pdf
+  - 街に着目したTwitter上のメッセージ分析について, Master's thesis
+    - http://sfc.yasumura.org/master.html
 
 
 ## Skils
