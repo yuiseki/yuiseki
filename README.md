@@ -4,26 +4,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
 
 
-## Github status
-
-![yuiseki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
-![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
-
-
-# GitHub trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuiseki)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## My mission
-
-1. Punk rockers shouldn't follow anything.
-2. Punk rockers shouldn't insure their behavior.
-- Follow my heart.
-- Keep saying to "Even so still".
-- Don't pretend not to see.
-- Be the saviour of the broken, the beaten and the damned.
-
-
 ## Career
 
 - 2004-2008
@@ -106,11 +86,6 @@ And more, I'm interested in development of hardware devices called IoT.
 Because it's very interesting to see how software works in the real world.
 
 
-## More detailed profile
-
-https://scrapbox.io/yuiseki/yuiseki
-
-
 ## About job offering
 - I'm not thinking of changing jobs until 2022.
   - But, I will immediately consider a career change if offered by the following organizations
@@ -132,3 +107,29 @@ https://scrapbox.io/yuiseki/yuiseki
   - Discretion of jobs
   - Work location
   - Work style
+
+
+## Github status
+
+![yuiseki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
+![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
+
+
+# GitHub trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuiseki)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## My mission
+
+1. Punk rockers shouldn't follow anything.
+2. Punk rockers shouldn't insure their behavior.
+- Follow my heart.
+- Keep saying to "Even so still".
+- Don't pretend not to see.
+- Be the saviour of the broken, the beaten and the damned.
+
+
+## More detailed profile
+
+https://scrapbox.io/yuiseki/yuiseki
+
