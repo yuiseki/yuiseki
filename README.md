@@ -88,11 +88,14 @@ Because it's very interesting to see how software works in the real world.
 ## About job offering
 - I'm not thinking of changing jobs until 2022.
   - But, I will immediately consider a career change if offered by the following organizations
+    - United Nations
     - Subordinate organizations of the United Nations
+      - WHO
       - World Bank
       - IMF
-      - WHO
+      - UNDP
       - UNDRR
+      - ... or any subordinate organizations of the United Nations
     - Non-profit foundation/NGO with global reach
       - Bill & Melinda Gates Foundation
       - Open Society Foundations
