@@ -5,13 +5,6 @@
 
 
 ## Career
-
-- 2004-2008
-  - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
-    - Bachelor degree of Environmental and Information Studies
-- 2008-2010
-  - Keio University, Graduate School of Media and Governance
-    - Master degree of Media and Governance
 - 2008-2009
   - Metacast Inc.
     - Software engineer, Part time
@@ -35,6 +28,15 @@
         - iOS
 
 
+## Education
+- 2004-2008
+  - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
+    - Bachelor degree of Environmental and Information Studies
+- 2008-2010
+  - Keio University, Graduate School of Media and Governance
+    - Master degree of Media and Governance
+
+
 ## Publication
 - 2007
   - グラフィティコミュニティのためのマップのデザイン, 日本デザイン学会　第54回研究発表大会
@@ -51,30 +53,27 @@
 
 
 ## Skils
-- Linux
-  - Experience more than 20 years
-- Shellscript
-  - Experience more than 10 years
+- Linux (UNIX ecosystem)
+  - Shell Script (Bash)
+  - Makefile
+  - Docker
+  - kubernetes
+- Database
+  - MySQL
+  - MongoDB
+  - Redis
 - HTML/CSS
-  - Experience more than 20 years
 - Javascript
-  - Experience more than 15 years
+  - node.js
+  - React
 - Ruby
-  - Experience more than 10 years
-- Ruby on Rails
-  - Experience more than 10 years
+  - Ruby on Rails
 - Python
-  - Experience more than 10 years
+  - Django
 - Java
-  - Experience more than 5 years
+- Kotlin
 - Objective-C
-  - Experience more than 5 years
-- MySQL
-  - Experience more than 10 years
-- MongoDB
-  - Experience more than 5 years
-- Redis
-  - Experience more than 10 years
+- Swift
 
 
 ## Interest
@@ -117,16 +116,6 @@ Because it's very interesting to see how software works in the real world.
 
 # GitHub trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuiseki)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## My mission
-
-1. Punk rockers shouldn't follow anything.
-2. Punk rockers shouldn't insure their behavior.
-- Follow my heart.
-- Keep saying to "Even so still".
-- Don't pretend not to see.
-- Be the saviour of the broken, the beaten and the damned.
 
 
 ## More detailed profile
