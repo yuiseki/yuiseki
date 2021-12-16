@@ -28,6 +28,12 @@
         - iOS
 
 
+## Awards
+- OSS奨励賞（sinsai.info開発者として）
+  - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
+- Geospatial Hackers Program 2020 優秀賞
+
+
 ## Education
 - 2004-2008
   - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
