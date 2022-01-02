@@ -121,8 +121,10 @@ Because it's very interesting to see how software works in the real world.
 
 ## Github status
 
-![yuiseki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
+![yuiseki's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
 ![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
+
+![yuiseki's github contribution](https://github-contribution-graph.ez4o.com/?username=yuiseki&last_n_days=180)
 
 
 # GitHub trophy
