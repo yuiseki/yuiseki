@@ -13,7 +13,7 @@
     - Software engineer, Part time
     - Software engineer
 - 2019-
-  - Nota Inc.
+  - Some kind of Inc.
     - Software engineer
     - Project manager
       - Scale
