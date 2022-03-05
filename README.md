@@ -3,6 +3,9 @@
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
 
 ## Career
 - 2008-2009
@@ -117,18 +120,6 @@ Because it's very interesting to see how software works in the real world.
   - Discretion of jobs
   - Work location
   - Work style
-
-
-## Github status
-
-![yuiseki's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuiseki&exclude_repo=unity-oculus-quest-template&hide=c&langs_count=5)
-![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&count_private=true&line_height=40)
-
-![yuiseki's github contribution](https://github-contribution-graph.ez4o.com/?username=yuiseki&last_n_days=180)
-
-
-# GitHub trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuiseki)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## More detailed profile
