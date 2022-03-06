@@ -109,17 +109,17 @@ Because it's very interesting to see how software works in the real world.
       - UNDRR
       - UNHCR
       - ... or any subordinate organizations of the United Nations
-    - NPO(Non-Profit Organization) / NGO(Non-Governmental Organization) with global reach
+    - NPO / NGO with global reach
       - Open Society Foundations
       - Bill & Melinda Gates Foundation
       - ICRC
       - Médecins Sans Frontières
       - Kiva
       - Grameen Bank
-- When you sending a job offer email to me, please include the following
-  - Position or Job description
+- When you sending email recommend jobs to me, please include the following
   - Annual salary
-    - Do not send to me any job offer present annual salary under 10 million Yen.
+    - DO NOT send to me any job offer present annual salary under 10 million Yen.
+  - Position or Job description
   - Discretion of jobs
   - Work location and work style
 
