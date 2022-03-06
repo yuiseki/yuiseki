@@ -97,8 +97,9 @@ Because it's very interesting to see how software works in the real world.
 
 
 ## About job offering
-- I'm not thinking of changing jobs until 2024.
-  - But, I will immediately consider a career change if offered by the following organizations
+- NOTE: I want to maximize my ability to have the desired impact on humanity.
+- I'm not thinking of changing jobs until 2025.
+  - But, I will immediately consider a career change if job offered by the following organizations
     - United Nations
     - Subordinate organizations of the United Nations
       - WHO
@@ -106,20 +107,21 @@ Because it's very interesting to see how software works in the real world.
       - IMF
       - UNDP
       - UNDRR
+      - UNHCR
       - ... or any subordinate organizations of the United Nations
-    - Non-profit foundation/NGO with global reach
-      - Bill & Melinda Gates Foundation
+    - NPO(Non-Profit Organization) / NGO(Non-Governmental Organization) with global reach
       - Open Society Foundations
+      - Bill & Melinda Gates Foundation
+      - ICRC
+      - Médecins Sans Frontières
       - Kiva
       - Grameen Bank
-      - ICRC
 - When you sending a job offer email to me, please include the following
-  - Position
+  - Position or Job description
   - Annual salary
     - Do not send to me any job offer present annual salary under 10 million Yen.
   - Discretion of jobs
-  - Work location
-  - Work style
+  - Work location and work style
 
 
 ## More detailed profile
