@@ -116,9 +116,9 @@ Because it's very interesting to see how software works in the real world.
       - Médecins Sans Frontières
       - Kiva
       - Grameen Bank
-- When you sending email recommend jobs to me, please include the following
+- When you sending email recommend jobs to me, you MUST include the following infomations
   - Annual salary
-    - DO NOT send to me any job offer present annual salary under 10 million Yen.
+    - MUST NOT send to me any job offer present annual salary under 10 million Yen.
   - Position or Job description
   - Discretion of jobs
   - Work location and work style
