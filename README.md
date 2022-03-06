@@ -118,8 +118,8 @@ Because it's very interesting to see how software works in the real world.
       - Grameen Bank
 - When you sending email recommend jobs to me, you MUST include the following infomations
   - Annual salary
-    - MUST NOT send to me any job offer present annual salary under 10 million Yen.
-  - Position or Job description
+    - MUST NOT send to me any recommend jobs present annual salary under 10 million Yen.
+  - Position or job description
   - Discretion of jobs
   - Work location and work style
 
