@@ -75,7 +75,7 @@
   - Redis
 - HTML/CSS
 - Javascript
-  - node.js
+  - Node.js
   - React
 - Ruby
   - Ruby on Rails
