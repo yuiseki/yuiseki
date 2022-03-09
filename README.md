@@ -18,7 +18,7 @@
 - 2019-
   - Nota Inc.
     - Software engineer
-    - Project manager
+    - Project manager (2020-)
       - Scale
         - ten million user
         - 2 billion contents
