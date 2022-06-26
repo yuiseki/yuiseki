@@ -9,14 +9,14 @@
 
 ## Career
 - 2008-2009
-  - Metacast Inc.
+  - Metacast, Inc.
     - Software engineer, Part time
 - 2009-2018
-  - Cerevo Inc.
+  - Cerevo, Inc.
     - Software engineer, Part time
     - Software engineer
 - 2019-
-  - Nota Inc.
+  - Nota, Inc.
     - Software engineer
     - Project manager (2020-)
       - Scale
@@ -66,13 +66,20 @@
   - Shell Script (Bash)
   - Makefile
   - Docker
-- Cloud
+  - kubernetes
+- PaaS
+  - AWS
   - GCP
+  - Azure
   - Heroku
+  - Vercel
+  - Cloudflare
 - Database
   - MySQL
   - MongoDB
   - Redis
+- Search engine
+  - Elasticsearch
 - HTML/CSS
 - Javascript
   - Node.js
@@ -80,6 +87,7 @@
 - Ruby
   - Ruby on Rails
 - Python
+  - Flask
   - Django
 - Java
 - Kotlin
