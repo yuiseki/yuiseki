@@ -1,13 +1,20 @@
 # Hey 👋, I'm yuiseki
 
-[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
-[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
+## Profile
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
+- Born in 1984
+- Project manager / Software engineer of Gyazo in Nota, Inc.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
+
+
+## My ambition
+
+- I want to maximize my ability to have the desired impact on humanity.
+
+
 
 ## Career
+
 - 2008-2009
   - Metacast, Inc.
     - Software engineer, Part time
@@ -31,7 +38,9 @@
         - iOS
 
 
+
 ## Education
+
 - 2004-2008
   - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
     - Bachelor degree of Environmental and Information Studies
@@ -40,13 +49,17 @@
     - Master degree of Media and Governance
 
 
+
 ## Awards
+
 - OSS奨励賞（sinsai.info開発者として）
   - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
 - Geospatial Hackers Program 2020 優秀賞
 
 
+
 ## Publication
+
 - 2007
   - グラフィティコミュニティのためのマップのデザイン, 日本デザイン学会　第54回研究発表大会
     - https://www.jstage.jst.go.jp/article/jssd/54/0/54_0_C16/_article/-char/ja/
@@ -59,6 +72,7 @@
     - http://www.interaction-ipsj.org/archives/paper2010/demo/0131/0131.pdf
   - 街に着目したTwitter上のメッセージ分析について, Master's thesis
     - http://sfc.yasumura.org/master.html
+
 
 
 ## Skils
@@ -95,7 +109,9 @@
 - Swift
 
 
+
 ## Interest
+
 I'm strongly interested in crawling, scraping Web and data minings.
 In connection with the above, I'm interested for utilization of collected information.
 For that reason, I'm also interested NLP, GIS and Image Recognition.
@@ -104,8 +120,9 @@ And more, I'm interested in development of hardware devices called IoT.
 Because it's very interesting to see how software works in the real world.
 
 
+
 ## About job offering
-- NOTE: I want to maximize my ability to have the desired impact on humanity.
+
 - I'm not thinking of changing jobs until 2025.
   - But, I will immediately consider a career change if job offered by the following organizations
     - United Nations
@@ -132,7 +149,22 @@ Because it's very interesting to see how software works in the real world.
   - Work location and work style
 
 
+
 ## More detailed profile
 
 https://scrapbox.io/yuiseki/yuiseki
 
+
+
+## My GitHub stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
+
+
+
+## Follow me
+
+[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
+[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
