@@ -1,6 +1,21 @@
 # Hey 👋, I'm yuiseki
 
-## Profile
+## My GitHub stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
+
+
+
+## Follow me
+
+[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
+[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
+
+
+
+## Basic profile
 
 - Born in 1984
 - Project manager / Software engineer of Gyazo in Nota, Inc.
@@ -10,6 +25,17 @@
 ## My ambition
 
 - I want to maximize my ability to have the desired impact on humanity.
+
+
+
+## Interest
+
+I'm strongly interested in crawling, scraping Web and data minings.
+In connection with the above, I'm interested for utilization of collected information.
+For that reason, I'm also interested NLP, GIS and Image Recognition.
+
+And more, I'm interested in development of hardware devices called IoT.
+Because it's very interesting to see how software works in the real world.
 
 
 
@@ -26,16 +52,6 @@
   - Nota, Inc.
     - Software engineer
     - Project manager (2020-)
-      - Scale
-        - ten million user
-        - 2 billion contents
-        - 1 PB transfar amount
-      - Managing following product lines
-        - Web
-        - Windows
-        - macOS
-        - Android
-        - iOS
 
 
 
@@ -76,6 +92,7 @@
 
 
 ## Skils
+
 - Linux (UNIX ecosystem)
   - Shell Script (Bash)
   - Makefile
@@ -107,17 +124,6 @@
 - Kotlin
 - Objective-C
 - Swift
-
-
-
-## Interest
-
-I'm strongly interested in crawling, scraping Web and data minings.
-In connection with the above, I'm interested for utilization of collected information.
-For that reason, I'm also interested NLP, GIS and Image Recognition.
-
-And more, I'm interested in development of hardware devices called IoT.
-Because it's very interesting to see how software works in the real world.
 
 
 
@@ -153,18 +159,3 @@ Because it's very interesting to see how software works in the real world.
 ## More detailed profile
 
 https://scrapbox.io/yuiseki/yuiseki
-
-
-
-## My GitHub stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
-
-
-
-## Follow me
-
-[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
-[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
