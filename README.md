@@ -127,7 +127,7 @@ Because it's very interesting to see how software works in the real world.
 
 
 
-## About job offering
+## About job recommend
 
 - I'm not thinking of changing jobs until 2025.
   - But, I will immediately consider a career change if job offered by the following organizations
