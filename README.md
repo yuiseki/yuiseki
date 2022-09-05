@@ -49,9 +49,10 @@ Because it's very interesting to see how software works in the real world.
     - Software engineer, Part time
     - Software engineer
 - 2019-
-  - Nota, Inc.
+  - Helpfeel, Inc. (In the past, it was called Nota, Inc.)
     - Software engineer
-    - Project manager (2020-)
+    - Project manager (2020-01-2022-09)
+    - Product manager (2022-09-present)
 
 
 
