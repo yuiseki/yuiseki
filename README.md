@@ -18,7 +18,7 @@
 ## Basic profile
 
 - Born in 1984
-- Project manager / Software engineer of Gyazo in Nota, Inc.
+- Product manager / Software engineer of Gyazo in Nota, Inc.
 
 
 
