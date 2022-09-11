@@ -18,4 +18,4 @@
 
 ## More detailed profile
 
-https://github.com/yuiseki/yuiseki/RESUME.md
+https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
