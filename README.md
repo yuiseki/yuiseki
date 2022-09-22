@@ -14,7 +14,8 @@
 ## Basic profile
 
 - Born in 1984
-- Product manager and Software engineer of Gyazo in Helpfeel, Inc.
+- Product manager and Software engineer of Gyazo in Helpfeel Inc.
+- Contributing to UNVT (UN Open GIS), Code For Japan and OpenStreetMap
 
 ## More detailed profile
 
