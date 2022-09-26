@@ -1,16 +1,5 @@
 # Hey 🍻, I'm yuiseki
 
-## My GitHub stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuiseki&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuiseki&theme=default)
-
-## Follow me
-
-[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
-[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
-
 ## Basic profile
 
 - Born in 1984
@@ -20,3 +9,12 @@
 ## More detailed profile
 
 https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
+
+## My GitHub stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)
+
+## Follow me
+
+[![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
+[![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
