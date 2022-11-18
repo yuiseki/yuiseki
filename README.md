@@ -15,7 +15,7 @@ https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)
 
-## Follow me
+## Follow me!!
 
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
 [![Twitter](https://img.shields.io/twitter/follow/yuiseki_?style=social)](https://twitter.com/yuiseki_)
