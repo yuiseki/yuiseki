@@ -13,7 +13,7 @@ https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
 
 ## My GitHub stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuiseki&theme=default)
+[![](https://raw.githubusercontent.com/yuiseki/yuiseki/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yuiseki/yuiseki/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Follow me!!
 
