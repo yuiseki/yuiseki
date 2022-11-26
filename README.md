@@ -7,7 +7,8 @@
 - Product manager & Software engineer of Gyazo in Helpfeel Inc.
 - Contributing to
   - UN Open GIS Initiative
-    - UNVT
+    - Domain Working Group 7
+      - UNVT (The United Nations Vector Tile Toolkit)
   - OpenStreetMap
   - Code for Japan
 
