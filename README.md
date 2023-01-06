@@ -1,9 +1,5 @@
-# Hey 🍻, I'm yuiseki
+## Hey 🍻, I'm yuiseki
 
-## Basic profile
-
-- Born in 1984
-- Living in Tokyo, Japan
 - Product manager & Software engineer of Gyazo in Helpfeel Inc.
 - Contributing to
   - UN Open GIS Initiative
