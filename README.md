@@ -1,7 +1,6 @@
 ## Hey 🍻, I'm yuiseki
 
-- Product manager & Software engineer of Gyazo in Helpfeel Inc.
-- Contributing to
+- I'm contributing to
   - UN Open GIS Initiative
     - Domain Working Group 7
       - UNVT (The United Nations Vector Tile Toolkit)
