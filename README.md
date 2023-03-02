@@ -7,9 +7,11 @@
   - OpenStreetMap
   - Code for Japan
 
-My areas of interest in computer science can be found here: https://github.com/yuiseki?tab=stars
+My areas of interest in computer science can be found here:
+- https://github.com/yuiseki?tab=stars
 
-My resume can be found here: https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
+My resume can be found here:
+- https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
 
 ### My GitHub stats
 
