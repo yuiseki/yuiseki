@@ -6,39 +6,22 @@
 
 ## Interest
 
-I'm strongly interested in crawling, scraping Web and data minings.
-In connection with the above, I'm interested for utilization of collected information.
-For that reason, I'm also interested NLP, GIS and Image Recognition.
-
-And more, I'm interested in development of hardware devices called IoT.
-Because it's very interesting to see how software works in the real world.
-
 My areas of interest in computer science can be found here:
 - https://github.com/yuiseki?tab=stars
 
 ## Contributing
 
-- I'm contributing to
-  - UN Open GIS Initiative
-    - Domain Working Group 7
-      - UNVT (The United Nations Vector Tile Toolkit)
-  - OpenStreetMap
-  - Code for Japan
+- UN Open GIS / Domain Working Group 7 / UNVT (The United Nations Vector Tile Toolkit)
+- OpenStreetMap
+- Code for Japan
 
 ## Career
 
-- 2008-2009
-  - Metacast, Inc.
-    - Software engineer, Part time
-- 2009-2018
-  - Cerevo, Inc.
-    - Software engineer, Part time
-    - Software engineer
-- 2019-
-  - Helpfeel, Inc. (In the past, it was called Nota, Inc.)
-    - Software engineer
-    - Project manager (2020-01-2022-09)
-    - Product manager (2022-09-present)
+- Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
+- Project manager, Gyazo, Helpfeel Inc. (2020-01-2022-09)
+- Software engineer, Gyazo, Helpfeel Inc. (2019-01-2020-01)
+- Software engineer, Cerevo, Inc. (2009-2018)
+- Software engineer, Part time, Metacast, Inc. (2008-2009)
 
 ## Education
 
