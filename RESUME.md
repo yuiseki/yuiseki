@@ -58,39 +58,6 @@ Because it's very interesting to see how software works in the real world.
   - 街に着目した Twitter 上のメッセージ分析について, Master's thesis
     - http://sfc.yasumura.org/master.html
 
-## Skils
-
-- Linux (UNIX ecosystem)
-  - Shell Script (Bash)
-  - Makefile
-  - Docker
-  - kubernetes
-- PaaS
-  - AWS
-  - GCP
-  - Azure
-  - Heroku
-  - Vercel
-  - Cloudflare
-- Database
-  - MySQL
-  - MongoDB
-  - Redis
-- Search engine
-  - Elasticsearch
-- HTML/CSS
-- Javascript
-  - Node.js
-  - React
-- Ruby
-  - Ruby on Rails
-- Python
-  - Flask
-  - Django
-- Java
-- Kotlin
-- Objective-C
-- Swift
 
 ## About job recommend
 
