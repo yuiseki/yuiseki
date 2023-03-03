@@ -1,5 +1,11 @@
 ### Hey 🍻, I'm yuiseki
 
+## My ambition
+
+- I want to maximize my ability to have the desired impact on humanity.
+
+## Contributing
+
 - I'm contributing to
   - UN Open GIS Initiative
     - Domain Working Group 7
