@@ -4,7 +4,6 @@
 
 - I want to maximize my ability to have the desired impact on humanity.
 
-
 ## Interest
 
 I'm strongly interested in crawling, scraping Web and data minings.
@@ -14,6 +13,8 @@ For that reason, I'm also interested NLP, GIS and Image Recognition.
 And more, I'm interested in development of hardware devices called IoT.
 Because it's very interesting to see how software works in the real world.
 
+My areas of interest in computer science can be found here:
+- https://github.com/yuiseki?tab=stars
 
 ## Contributing
 
@@ -23,13 +24,6 @@ Because it's very interesting to see how software works in the real world.
       - UNVT (The United Nations Vector Tile Toolkit)
   - OpenStreetMap
   - Code for Japan
-
-My areas of interest in computer science can be found here:
-- https://github.com/yuiseki?tab=stars
-
-My resume can be found here:
-- https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
-
 
 ## Career
 
@@ -46,7 +40,6 @@ My resume can be found here:
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
 
-
 ## Education
 
 - 2004-2008
@@ -56,12 +49,13 @@ My resume can be found here:
   - Keio University, Graduate School of Media and Governance
     - Master degree of Media and Governance
 
+My resume can be found here:
+- https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
 
 ### My GitHub stats
 
 [![](https://raw.githubusercontent.com/yuiseki/yuiseki/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yuiseki/yuiseki/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 ### My Favorites
 
@@ -79,7 +73,6 @@ My resume can be found here:
 [![cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=light "cloudlfare")](https://skillicons.dev)
 [![gcp](https://skillicons.dev/icons?i=gcp&theme=light "gcp")](https://skillicons.dev)
 [![raspberrypi](https://skillicons.dev/icons?i=raspberrypi&theme=light "raspberrypi")](https://skillicons.dev)
-
 
 ### Follow me!!
 
