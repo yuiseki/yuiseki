@@ -4,6 +4,17 @@
 
 - I want to maximize my ability to have the desired impact on humanity.
 
+
+## Interest
+
+I'm strongly interested in crawling, scraping Web and data minings.
+In connection with the above, I'm interested for utilization of collected information.
+For that reason, I'm also interested NLP, GIS and Image Recognition.
+
+And more, I'm interested in development of hardware devices called IoT.
+Because it's very interesting to see how software works in the real world.
+
+
 ## Contributing
 
 - I'm contributing to
@@ -18,6 +29,32 @@ My areas of interest in computer science can be found here:
 
 My resume can be found here:
 - https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
+
+
+## Career
+
+- 2008-2009
+  - Metacast, Inc.
+    - Software engineer, Part time
+- 2009-2018
+  - Cerevo, Inc.
+    - Software engineer, Part time
+    - Software engineer
+- 2019-
+  - Helpfeel, Inc. (In the past, it was called Nota, Inc.)
+    - Software engineer
+    - Project manager (2020-01-2022-09)
+    - Product manager (2022-09-present)
+
+
+## Education
+
+- 2004-2008
+  - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
+    - Bachelor degree of Environmental and Information Studies
+- 2008-2010
+  - Keio University, Graduate School of Media and Governance
+    - Master degree of Media and Governance
 
 
 ### My GitHub stats
