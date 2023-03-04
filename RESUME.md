@@ -59,6 +59,15 @@ Because it's very interesting to see how software works in the real world.
     - http://sfc.yasumura.org/master.html
 
 
+## Contributing
+
+- UN Open GIS
+  - Domain Working Group 7 "Smart Maps"
+    - UNVT (The United Nations Vector Tile Toolkit)
+- OpenStreetMap
+- Code for Japan
+
+
 ## About job recommend
 
 - I'm not thinking of changing jobs until 2025.
