@@ -33,6 +33,8 @@ My areas of interest in computer science can be found here:
   - Keio University, Graduate School of Media and Governance
     - Master degree of Media and Governance
 
+## Want to know more?
+
 My resume can be found here:
 - https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
 
