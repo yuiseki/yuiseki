@@ -2,8 +2,8 @@
 
 ## My ambition
 
-- I want to maximize my ability to have the desired impact on humanity.
-- I want to empowering the possibilities of humanity through the development of software that has universal value.
+- I want to maximize my possibilities to have the desired impact on humanity.
+- Empowering the possibilities of humanity through the development of software that has universal value.
 
 ## Interest
 
@@ -60,11 +60,12 @@ Because it's very interesting to see how software works in the real world.
     - http://sfc.yasumura.org/master.html
 
 
-## Contributing
+## Contributions to Humanity
 
 - UN Open GIS
   - Domain Working Group 7 "Smart Maps"
     - UNVT (The United Nations Vector Tile Toolkit)
+    - MUNDO (Model United Nations Development and Operations)
 - OpenStreetMap
 - Code for Japan
 
