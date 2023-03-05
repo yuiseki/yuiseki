@@ -26,12 +26,8 @@ My areas of interest in computer science can be found here:
 
 ## Education
 
-- 2004-2008
-  - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
-    - Bachelor degree of Environmental and Information Studies
-- 2008-2010
-  - Keio University, Graduate School of Media and Governance
-    - Master degree of Media and Governance
+- Master degree of Media and Governance, Keio University, Graduate School of Media and Governance (2010)
+- Bachelor degree of Environmental and Information Studies, Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media (2008)
 
 ## Want to know more?
 
