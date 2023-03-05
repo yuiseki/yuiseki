@@ -5,6 +5,21 @@
 - I want to maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
+## Specialized in
+
+### software-related intel
+
+- Computer Network
+- Web Data Mining
+- Reverse Engineering
+- Open Data
+- Open Source Intelligence
+- Geospatial Information System
+- Natural Language Processing
+- Image Processing & Image Recognition
+- Internet of Things
+- Embedded Linux Systems
+
 ## Interest
 
 I'm strongly interested in crawling, scraping Web and data minings.
