@@ -5,12 +5,7 @@
 - I want to maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
-## Interest
-
-My areas of interest in computer science can be found here:
-- https://github.com/yuiseki?tab=stars
-
-## Contributing
+## Contributions to Humanity
 
 - UN Open GIS / Domain Working Group 7
 - OpenStreetMap
