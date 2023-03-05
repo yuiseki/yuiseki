@@ -3,6 +3,7 @@
 ## My ambition
 
 - I want to maximize my ability to have the desired impact on humanity.
+- I want to empowering the possibilities of humanity through the development of software that has universal value.
 
 ## Interest
 
