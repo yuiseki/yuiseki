@@ -1,4 +1,4 @@
-### Hey 🍻, I'm yuiseki
+## Hey 🍻, I'm yuiseki
 
 ## My ambition
 
