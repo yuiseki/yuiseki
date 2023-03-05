@@ -14,15 +14,10 @@
 ## Career
 
 - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
-- Project manager, Gyazo, Helpfeel Inc. (2020-01-2022-09)
-- Software engineer, Gyazo, Helpfeel Inc. (2019-01-2020-01)
-- Software engineer, Cerevo, Inc. (2009-2018)
-- Software engineer, Part time, Metacast, Inc. (2008-2009)
 
 ## Education
 
 - Master degree of Media and Governance, Keio University, Graduate School of Media and Governance (2010)
-- Bachelor degree of Environmental and Information Studies, Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media (2008)
 
 ## Want to know more?
 
