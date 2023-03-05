@@ -12,7 +12,7 @@ My areas of interest in computer science can be found here:
 
 ## Contributing
 
-- UN Open GIS / Domain Working Group 7 / UNVT (The United Nations Vector Tile Toolkit)
+- UN Open GIS / Domain Working Group 7
 - OpenStreetMap
 - Code for Japan
 
