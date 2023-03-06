@@ -1,25 +1,25 @@
-## Hey 🍻, I'm yuiseki
+### Hey 🍻, I'm yuiseki
 
-## My ambition
+### My ambition
 
 - I want to maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
-## Contributions to Humanity
+### Contributions to Humanity
 
 - UN Open GIS / Domain Working Group 7
 - OpenStreetMap
 - Code for Japan
 
-## Career
+### Career
 
 - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
 
-## Education
+### Education
 
 - Master degree of Media and Governance, Keio University, Graduate School of Media and Governance (2010)
 
-## Want to know more?
+### Want to know more?
 
 My resume can be found here:
 - https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
