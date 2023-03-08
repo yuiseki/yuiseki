@@ -85,6 +85,23 @@ Because it's very interesting to see how software works in the real world.
 - Code for Japan
 
 
+### My Favorites
+
+[![bash](https://skillicons.dev/icons?i=bash&theme=light "bash")](https://skillicons.dev)
+[![nodejs](https://skillicons.dev/icons?i=nodejs&theme=light "nodejs")](https://skillicons.dev)
+[![react](https://skillicons.dev/icons?i=react&theme=light "react")](https://skillicons.dev)
+[![typescript](https://skillicons.dev/icons?i=ts&theme=light "typescript")](https://skillicons.dev)
+[![vite](https://skillicons.dev/icons?i=vite&theme=light "vite")](https://skillicons.dev)
+[![nextjs](https://skillicons.dev/icons?i=nextjs&theme=light "nextjs")](https://skillicons.dev)
+[![mongodb](https://skillicons.dev/icons?i=mongodb&theme=light "mongodb")](https://skillicons.dev)
+[![redis](https://skillicons.dev/icons?i=redis&theme=light "redis")](https://skillicons.dev)
+[![ruby](https://skillicons.dev/icons?i=ruby&theme=light "ruby")](https://skillicons.dev)
+[![rails](https://skillicons.dev/icons?i=rails&theme=light "rails")](https://skillicons.dev)
+[![github](https://skillicons.dev/icons?i=github&theme=light "github")](https://skillicons.dev)
+[![cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=light "cloudlfare")](https://skillicons.dev)
+[![gcp](https://skillicons.dev/icons?i=gcp&theme=light "gcp")](https://skillicons.dev)
+[![raspberrypi](https://skillicons.dev/icons?i=raspberrypi&theme=light "raspberrypi")](https://skillicons.dev)
+
 ## About job recommend
 
 - I'm not thinking of changing jobs until 2025.
