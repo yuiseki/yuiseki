@@ -9,6 +9,7 @@
   - UN Open GIS / Domain Working Group 7 / Objective 7
   - OpenStreetMap
   - Code for Japan
+  - https://github.com/search?o=desc&q=is%3Apr+is%3Apublic+author%3Ayuiseki&s=created&type=Issues
 
 
 ### Want to know more?
