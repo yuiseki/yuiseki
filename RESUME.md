@@ -1,6 +1,6 @@
 # yuiseki
 
-## My ambition
+## Ambitions
 
 - I want to maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
@@ -20,7 +20,7 @@
 - Internet of Things
 - Embedded Linux Systems
 
-## Interest
+## Interests
 
 I'm strongly interested in crawling, scraping Web and data minings.
 In connection with the above, I'm interested for utilization of collected information.
@@ -29,7 +29,7 @@ For that reason, I'm also interested NLP, GIS and Image Recognition.
 And more, I'm interested in development of hardware devices called IoT.
 Because it's very interesting to see how software works in the real world.
 
-## Career
+## Careers
 
 - 2008-2009
   - Metacast, Inc.
@@ -44,7 +44,7 @@ Because it's very interesting to see how software works in the real world.
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
 
-## Education
+## Educations
 
 - 2004-2008
   - Musashi Institute of Technology, Environmental and Information Studies, Department of Information Media
@@ -59,7 +59,7 @@ Because it's very interesting to see how software works in the real world.
   - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
 - Geospatial Hackers Program 2020 優秀賞
 
-## Publication
+## Publications
 
 - 2007
   - グラフィティコミュニティのためのマップのデザイン, 日本デザイン学会　第 54 回研究発表大会
@@ -85,7 +85,7 @@ Because it's very interesting to see how software works in the real world.
 - Code for Japan
 
 
-### My Favorites
+## My Favorites
 
 [![bash](https://skillicons.dev/icons?i=bash&theme=light "bash")](https://skillicons.dev)
 [![nodejs](https://skillicons.dev/icons?i=nodejs&theme=light "nodejs")](https://skillicons.dev)
