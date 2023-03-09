@@ -5,6 +5,12 @@
 - I want to maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
+## Philosophies
+
+- Move fast and break things.
+- Done is better than perfect.
+- It's better than nothing.
+
 ## Specialized in
 
 ### software-related intel
