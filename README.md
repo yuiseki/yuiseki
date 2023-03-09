@@ -5,8 +5,8 @@
   - Empowering the possibilities of humanity through the development of software that has universal value.
 - My philosophies
   - Move fast and break things.
-  - It's better than nothing.
   - Done is better than perfect.
+  - It's better than nothing.
 - My current job
   - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
 - My contributions to humanity via OSS
