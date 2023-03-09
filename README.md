@@ -1,8 +1,12 @@
 ### Hey 🍻, I'm yuiseki
 
-- My ambition
+- My ambitions
   - I want to maximize my possibilities to have the desired impact on humanity.
   - Empowering the possibilities of humanity through the development of software that has universal value.
+- My philosophies
+  - Move fast and break things.
+  - It's better than nothing.
+  - Done is better than perfect.
 - My current job
   - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
 - My contributions to humanity via OSS
