@@ -7,6 +7,7 @@
   - Move fast and break things.
   - Done is better than perfect.
   - It's better than nothing.
+  - Demo or Die, Deploy or Die
   - Don’t ask for permission, beg for forgiveness.
 - My current job
   - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
