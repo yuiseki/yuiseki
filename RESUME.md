@@ -10,6 +10,7 @@
 - Move fast and break things.
 - Done is better than perfect.
 - It's better than nothing.
+- Don’t ask for permission, beg for forgiveness.
 
 ## Specialized in
 
