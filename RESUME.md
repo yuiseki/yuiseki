@@ -9,7 +9,7 @@
 
 - Move fast and break things.
 - Done is better than perfect.
-- It's better than nothing.
+- Worse is better than nothing.
 - Demo or Die, Deploy or Die.
 - Don’t ask for permission, beg for forgiveness.
 - Anyone who has never made a mistake has never tried anything new.
