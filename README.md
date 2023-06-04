@@ -1,7 +1,7 @@
 ### Hey 🍻, I'm yuiseki
 
 - My ambitions
-  - I want to maximize my possibilities to have the desired impact on humanity.
+  - Maximize my possibilities to have the desired impact on humanity.
   - Empowering the possibilities of humanity through the development of software that has universal value.
 - My current job
   - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)

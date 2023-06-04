@@ -2,7 +2,7 @@
 
 ## Ambitions
 
-- I want to maximize my possibilities to have the desired impact on humanity.
+- Maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
 ## Favorite quotes
@@ -41,14 +41,14 @@ Because it's very interesting to see how software works in the real world.
 ## Careers
 
 - 2008-2009
-  - Metacast, Inc.
+  - Metacast Inc.
     - Software engineer, Part time
 - 2009-2018
-  - Cerevo, Inc.
+  - Cerevo Inc.
     - Software engineer, Part time
     - Software engineer
 - 2019-
-  - Helpfeel, Inc. (In the past, it was called Nota, Inc.)
+  - Helpfeel Inc. (In the past, it was called Nota, Inc.)
     - Software engineer
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
@@ -83,16 +83,14 @@ Because it's very interesting to see how software works in the real world.
   - 街に着目した Twitter 上のメッセージ分析について, Master's thesis
     - http://sfc.yasumura.org/master.html
 
-
-## Contributions to Humanity
+## Contributions to Humanity via OSS
 
 - UN Open GIS
   - Domain Working Group 7 "Smart Maps"
     - UNVT (The United Nations Vector Tile Toolkit)
-    - MUNDO (Model United Nations Development and Operations)
+    - SmartMapsAssistant
 - OpenStreetMap
 - Code for Japan
-
 
 ## About job recommend
 
@@ -121,7 +119,6 @@ Because it's very interesting to see how software works in the real world.
   - Discretion of jobs
   - Work location and work style
 
-
 ## My Favorites
 
 [![bash](https://skillicons.dev/icons?i=bash&theme=light "bash")](https://skillicons.dev)
@@ -138,4 +135,3 @@ Because it's very interesting to see how software works in the real world.
 [![cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=light "cloudlfare")](https://skillicons.dev)
 [![gcp](https://skillicons.dev/icons?i=gcp&theme=light "gcp")](https://skillicons.dev)
 [![raspberrypi](https://skillicons.dev/icons?i=raspberrypi&theme=light "raspberrypi")](https://skillicons.dev)
-
