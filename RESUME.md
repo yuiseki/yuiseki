@@ -1,7 +1,7 @@
 # yuiseki's resume
 
 - Born at 1984
-- Lived in Tokyo
+- Lives in Tokyo
 - she/her
 
 ## My ambitions
