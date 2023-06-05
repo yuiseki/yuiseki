@@ -52,6 +52,44 @@ Because it's very interesting to see how software works in the real world.
     - Software engineer
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
+    - Project: Gyazo
+
+## Project or Products
+
+### Metacast Inc.
+
+- Mitter
+  - Lifelog service that stores, analyzes, and visualizes viewing history across all online video distribution services
+
+### Cerevo Inc.
+
+- CEREVO CAM
+  - An online compact digital camera that uploads instantly when you take a picture.
+  - I am in charge of server side development and front end development.
+- LiveShell
+  - Internet live streaming distributor.
+  - I am in charge of server side development and front end development.
+- iConvex
+  - iPhone case that has digital tape measure function.
+  - I am in charge of iOS application development
+- AlarmBrick
+  - An alarm clock that works with an online calendar.
+  - I was in charge of server side development and front end development.
+- OTTO
+  - Online remotely controllable power strip.
+  - I am in charge of server side development and Android/iOS app development.
+- Tipron
+  - Self-driving robot with built-in projector.
+  - I am in charge of Android application development and embedded Android application development.
+- Lumigent
+  - Desk light with built-in digital camera.
+  - I am in charge of Android/iOS application development and embedded Linux software development assistant.
+
+### Helpfeel Inc.
+
+- Gyazo
+  - The world's largest online screenshot and screen record sharing service
+  - 
 
 ## Educations
 
@@ -64,7 +102,7 @@ Because it's very interesting to see how software works in the real world.
 
 ## Awards
 
-- OSS 奨励賞（sinsai.info 開発者として）
+- OSS 奨励賞（as an contributor of sinsai.info）
   - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
 - Geospatial Hackers Program 2020 優秀賞
 
