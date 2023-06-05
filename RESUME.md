@@ -19,7 +19,7 @@
 ### software-related intel
 
 - Computer Network
-- Web Data Mining
+- Web Data Mining & Web Scraping
 - Reverse Engineering
 - Open Data
 - Open Source Intelligence
