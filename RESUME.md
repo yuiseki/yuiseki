@@ -126,9 +126,17 @@ Because it's very interesting to see how software works in the real world.
 - UN Open GIS
   - Domain Working Group 7 "Smart Maps"
     - UNVT (The United Nations Vector Tile Toolkit)
-    - SmartMapsAssistant
+      - charites
+      - UNVT Portable
+    - TRIDENT, an interactive Smart Maps Assistant
 - OpenStreetMap
+  - vector-tile-builder
+  - osm-address-editor-vite
+  - TRIDENT, an interactive Smart Maps Assistant
 - Code for Japan
+  - 新型コロナ調査ちゃん
+  - 紙マップ
+  - Project Inclusive
 
 ## About job recommend
 
