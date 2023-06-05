@@ -88,7 +88,7 @@ Because it's very interesting to see how software works in the real world.
 ### Helpfeel Inc.
 
 - Gyazo
-  - The world's largest online screenshot and screen record sharing service
+  - The world's largest online screenshot and screen record sharing service.
   - I am in charge of managing the development of infrastructure, web services, Windows version, Android version, macOS version, iOS version, and browser extensions.
 
 ## Educations
