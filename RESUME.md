@@ -1,11 +1,11 @@
 # yuiseki
 
-## Ambitions
+## My ambitions
 
 - Maximize my possibilities to have the desired impact on humanity.
 - Empowering the possibilities of humanity through the development of software that has universal value.
 
-## Favorite quotes
+## My favorite quotes
 
 - Move fast and break things.
 - Done is better than perfect.
@@ -52,7 +52,6 @@ Because it's very interesting to see how software works in the real world.
     - Software engineer
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
-    - Project: Gyazo
 
 ## Project or Products
 
