@@ -1,5 +1,7 @@
 # yuiseki
 
+she/her
+
 ## My ambitions
 
 - Maximize my possibilities to have the desired impact on humanity.
