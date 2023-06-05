@@ -1,6 +1,8 @@
-# yuiseki
+# yuiseki's resume
 
-she/her
+- Born at 1984
+- Lived in Tokyo
+- she/her
 
 ## My ambitions
 
