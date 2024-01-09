@@ -4,7 +4,7 @@
   - Maximize my possibilities to have the desired impact on humanity.
   - Empowering the possibilities of humanity through the development of software that has universal value.
 - My current job
-  - Product manager, Gyazo, Helpfeel Inc. (2022-09-present)
+  - Product manager (2022-09-present)
 - My contributions to humanity via OSS
   - UN Open GIS / Domain Working Group 7 / Objective 7
   - OpenStreetMap
