@@ -25,8 +25,9 @@
 - Computer Network
 - Web Data Mining & Web Scraping
 - Reverse Engineering
-- Internet of Things
 - Embedded Linux Systems
+- Internet of Things
+- Open Source
 - Open Data
 - Open Source Intelligence
 - Geospatial Information System
