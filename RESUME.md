@@ -128,9 +128,14 @@ Lately, I have been enthusiastic about maximizing the application of generative 
 
 ## Awards
 
-- OSS 奨励賞（as an contributor of sinsai.info）
-  - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
-- Geospatial Hackers Program 2020 優秀賞
+- 2012
+  - OSS 奨励賞（as an contributor of sinsai.info）
+    - https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%ACOSS%E5%A5%A8%E5%8A%B1%E8%B3%9E#%E7%AC%AC7%E5%9B%9E
+- 2020
+  - Geospatial Hackers Program 2020 優秀賞
+- 2024
+  - Local AI Hackathon #000 金賞
+    - https://imminent-land-e64.notion.site/e569abd90c3f4f0586fa03e9d080193d
 
 ## Publications
 
@@ -149,7 +154,7 @@ Lately, I have been enthusiastic about maximizing the application of generative 
 
 ## Contributions to Humanity via OSS
 
-- UN Open GIS
+- UN Open GIS initiative
   - Domain Working Group 7 "Smart Maps"
     - UNVT (The United Nations Vector Tile Toolkit)
       - charites
