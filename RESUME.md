@@ -25,13 +25,17 @@
 - Computer Network
 - Web Data Mining & Web Scraping
 - Reverse Engineering
+- Internet of Things
+- Embedded Linux Systems
 - Open Data
 - Open Source Intelligence
 - Geospatial Information System
 - Natural Language Processing
 - Image Processing & Image Recognition
-- Internet of Things
-- Embedded Linux Systems
+- Machine Learning
+  - Deep Learning
+    - Large Language Models
+    - Generative AI
 
 ## Interests
 
@@ -39,8 +43,10 @@ I'm strongly interested in crawling, scraping Web and data minings.
 In connection with the above, I'm interested for utilization of collected information.
 For that reason, I'm also interested NLP, GIS and Image Recognition.
 
-And more, I'm interested in development of hardware devices called IoT.
+I was, and still am, interested in developing the hardware known as the IoT.
 Because it's very interesting to see how software works in the real world.
+
+Lately, I have been enthusiastic about maximizing the application of generative AI.
 
 ## Careers
 
@@ -57,42 +63,58 @@ Because it's very interesting to see how software works in the real world.
     - Project manager (2020-01-2022-09)
     - Product manager (2022-09-present)
 
-## Project or Products
+## Projects or Products
 
-### Metacast Inc.
+### Metacast Inc. (2008-2009)
 
-- Mitter
-  - Lifelog service that stores, analyzes, and visualizes viewing history across all online video distribution services
+#### Mitter
 
-### Cerevo Inc.
+- Lifelog service that stores, analyzes, and visualizes viewing history across all online video distribution services
+- I was in charge of server side development (Ruby on Rails, MySQL) and front end development (Javascript).
 
-- CEREVO CAM
-  - An online compact digital camera that uploads instantly when you take a picture.
-  - I am in charge of server side development and front end development.
-- LiveShell
-  - Internet live streaming distributor.
-  - I am in charge of server side development and front end development.
-- iConvex
-  - iPhone case that has digital tape measure function.
-  - I am in charge of iOS application development
-- AlarmBrick
-  - An alarm clock that works with an online calendar.
-  - I was in charge of server side development and front end development.
-- OTTO
-  - Online remotely controllable power strip.
-  - I am in charge of server side development and Android/iOS app development.
-- Tipron
-  - Self-driving robot with built-in projector.
-  - I am in charge of Android application development and embedded Android application development.
-- Lumigent
-  - Desk light with built-in digital camera.
-  - I am in charge of Android/iOS application development and embedded Linux software development assistant.
+### Cerevo Inc. (2009-2018)
 
-### Helpfeel Inc.
+#### CEREVO CAM
 
-- Gyazo
-  - The world's largest online screenshot and screen record sharing service.
-  - I am in charge of managing the development of infrastructure, web services, Windows version, Android version, macOS version, iOS version, and browser extensions.
+- An online compact digital camera that uploads instantly when you take a picture.
+- I am in charge of server side development (Python, Django, MySQL) and front end development (Javascript, jQuery).
+
+#### LiveShell
+
+- Internet live streaming distributor.
+- I am in charge of server side development (Python, Flask, SQLAlchemy, MySQL) and front end development (Javascript, Google Closure Library).
+
+#### iConvex
+
+- iPhone case that has digital tape measure function.
+- I am in charge of iOS application development (Objective-C).
+
+#### AlarmBrick
+
+- An alarm clock that works with an online calendar.
+- I was in charge of server side development (Python, Flask, SQLAlchemy, MySQL) and front end development (Javascript).
+
+#### OTTO
+
+- Online remotely controllable power strip.
+- I am in charge of server side development (Node.js, Redis, Python, Flask, SQLAlchemy, MySQL) and Android/iOS application development (Java, Objective-C, WebVew, Backbone.js).
+
+#### Tipron
+
+- Self-driving robot with built-in projector.
+- I am in charge of Embedded android application development (Android OS, Java, Jetty, Realm, kuromoji), Android application development (Java) and infrastructure development (Linux, Docker, Shell script, AWS).
+
+#### Lumigent
+
+- Desk light with built-in digital camera.
+- I am in charge of Android/iOS application development (Java, Objective-C, MQTT, Gstreamer) and embedded Linux software development assistant (Embedded Linux, Shell script, Python).
+
+### Helpfeel Inc. (2019-present)
+
+#### Gyazo
+
+- The world's largest online screenshot and screen record sharing service.
+- I am in charge of managing the development of infrastructure, web services, Windows version, Android version, macOS version, iOS version, and browser extensions.
 
 ## Educations
 
@@ -132,6 +154,8 @@ Because it's very interesting to see how software works in the real world.
       - charites
       - UNVT Portable
     - TRIDENT, an interactive Smart Maps Assistant
+    - charites-ai
+    - FOIL4G
 - OpenStreetMap
   - vector-tile-builder
   - osm-address-editor-vite
