@@ -157,22 +157,13 @@ Because it can enable smoother communication between humans and machines.
 
 ## Contributions to Humanity via OSS
 
+As an individual, I contribute to the following initiatives, organizations, and projects.
+
 - UN Open GIS initiative
   - Domain Working Group 7 "Smart Maps"
     - UNVT (The United Nations Vector Tile Toolkit)
-      - charites
-      - UNVT Portable
-    - TRIDENT, an interactive Smart Maps Assistant
-    - charites-ai
-    - FOIL4G
 - OpenStreetMap
-  - vector-tile-builder
-  - osm-address-editor-vite
-  - TRIDENT, an interactive Smart Maps Assistant
 - Code for Japan
-  - 新型コロナ調査ちゃん
-  - 紙マップ
-  - Project Inclusive
 
 ## About job recommend
 
