@@ -23,16 +23,18 @@
 ### software-related intel
 
 - Computer Network
-- Web Data Mining & Web Scraping
-- Reverse Engineering
 - Embedded Linux Systems
 - Internet of Things
-- Open Source
+- Reverse Engineering
 - Open Data
-- Open Source Intelligence
-- Geospatial Information System
+- Open Source
+- Open Source Intelligence (OSINT)
+- Geospatial Information System (GIS)
 - Natural Language Processing
-- Image Processing & Image Recognition
+- Web Data Mining
+- Web Scraping
+- Image Processing
+- Image Recognition
 - Machine Learning
   - Deep Learning
     - Large Language Models
