@@ -49,7 +49,8 @@ For that reason, I'm also interested NLP, GIS and Image Recognition.
 I was, and still am, interested in developing the hardware known as the IoT.
 Because it's very interesting to see how software works in the real world.
 
-Lately, I have been enthusiastic about maximizing the application of generative AI.
+Lately, I have been enthusiastic about maximizing the potential applications of Generative AI.
+Because it can enable smoother communication between humans and machines.
 
 ## Careers
 
