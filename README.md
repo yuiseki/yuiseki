@@ -6,7 +6,9 @@
 - My current job
   - Product manager (2022-09-present)
 - My contributions to humanity via OSS
-  - [UN Open GIS Initiative](https://github.com/UNopenGIS), [OpenStreetMap](https://github.com/openstreetmap), [Code for Japan](https://github.com/codeforjapan)
+  - [UN Open GIS Initiative](https://github.com/UNopenGIS)
+  - [OpenStreetMap](https://github.com/openstreetmap)
+  - [Code for Japan](https://github.com/codeforjapan)
   - https://github.com/search?o=desc&q=is%3Apr+is%3Apublic+author%3Ayuiseki+-org%3Ayuiseki&s=created&type=pullrequests
 
 ### Want to know more?
