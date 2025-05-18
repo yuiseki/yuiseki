@@ -76,6 +76,20 @@
 
 - 世界最大のオンラインスクリーンショット・スクリーンレコード共有サービス
 - インフラ、Web サービス、Windows 版、Android 版、macOS 版、iOS 版、ブラウザ拡張機能版の開発管理を担当
+  - インフラ
+    - Google Cloud, MongoDB, MySQL, BigQuery, Elasticsearch, Docker, Kubernetes
+  - Web サービス
+    - Ruby on Rails, React
+  - Windows 版
+    - C++, C#, WPF
+  - Android 版
+    - Java, Kotlin
+  - macOS 版
+    - Objective-C, Swift
+  - iOS 版
+    - Swift
+  - ブラウザ拡張機能版
+    - Javascript, Typescript
 
 ## 学歴
 
