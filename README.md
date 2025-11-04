@@ -28,6 +28,8 @@ My resume can be found here:
 
 [![](https://raw.githubusercontent.com/yuiseki/yuiseki/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![yuiseki's github stats](https://github-readme-stats.vercel.app/api?username=yuiseki&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Follow me!!
 
 [![Github](https://img.shields.io/github/followers/yuiseki?label=Follow&style=social)](https://github.com/yuiseki)
