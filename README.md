@@ -10,6 +10,7 @@
   - [OpenStreetMap](https://github.com/openstreetmap)
   - [MapLibre](https://github.com/maplibre)
   - [Code for Japan](https://github.com/codeforjapan)
+  - https://github.com/search?q=is%3Aissue+is%3Apublic+author%3Ayuiseki+-org%3Ayuiseki&type=issues
   - https://github.com/search?o=desc&q=is%3Apr+is%3Apublic+author%3Ayuiseki+-org%3Ayuiseki&s=created&type=pullrequests
 
 ### Want to know more?
