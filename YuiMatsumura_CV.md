@@ -112,6 +112,19 @@ _2008 – 2009_
   - planetarble (open global raster basemap)
     - reproducible pipeline building a worldwide basemap from NASA/USGS Harmonized Landsat and Sentinel-2 imagery with Landsat Collection 2 cloud backfill and NOAA ETOPO bathymetry, shipped as a single PMTiles file; the whole stack stays license-free (public domain and CC0), with an AOI overlay architecture for high-resolution insets.
 
+## Talks and Teaching (selected)
+
+- 2026-06-06: 遊びと協力: 平時のオープンな遊びは、なぜ非常時の力になるのか / Play and cooperation: why open play in peacetime becomes strength in a crisis (invited)
+  - Open Source Conference 2026 Sendai, a community open-source conference series held in cities across Japan. Traced fifteen years from sinsai.info, the crowdsourced crisis map built after the 2011 Tohoku earthquake and tsunami, through to donating repositories to the United Nations.
+- 2026-02-01: AIと共に編集する、自宅にある惑星「地球」 / Editing the planet "Earth" that sits in my home, together with AI (presented remotely)
+  - Mappers Summit 2026, a gathering of the Japanese OpenStreetMap mapper community. Showed how a personal machine can build planet-scale OSM vector tiles with Planetiler, how Nominatim, Overpass, TagInfo, and Valhalla can all be self-hosted at planet scale, and how coding agents can then drive those APIs without limits through a purpose-built CLI.
+- 2025-03-10: 地理情報と言語処理 実践入門 / A practical introduction to geospatial information and natural language processing (invited tutorial)
+  - 言語処理学会第31回年次大会 (NLP2025), the annual meeting of the Association for Natural Language Processing, Nagasaki. Hands-on tutorial written for language-processing researchers with no GIS background, combining generative AI with geospatial APIs, datasets, and libraries.
+  - Materials and source code: https://github.com/yuiseki/NLP2025-tutorial-2
+- 2023-06-29: "Smart Maps for the UN and All - keeping web maps open", FOSS4G 2023, Prizren, Kosovo
+  - 30-minute talk with Hidenori Fujimura on DWG-7 "Smart Maps" of the UN Open GIS Initiative: keeping web maps open for UN peacekeeping operations using PMTiles, COPC, COG, Raspberry Pi, and IPFS.
+  - https://talks.osgeo.org/foss4g-2023/speaker/DEE8AD/
+
 ## Education / Degree
 
 - Keio University, Graduate School of Media and Governance (M.A./M.S.), 2008–2010
