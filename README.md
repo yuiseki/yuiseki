@@ -17,7 +17,7 @@
 
 My resume can be found here:
 
-- https://github.com/yuiseki/yuiseki/blob/main/RESUME.md
+- https://github.com/yuiseki/yuiseki/blob/main/YuiMatsumura_CV.md
 
 ### My GitHub stats
 
