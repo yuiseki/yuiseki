@@ -27,14 +27,20 @@ Tokyo, Japan
 
 ## Work Experience (including intern)
 
+### Geolonia Inc., Product Manager
+
+_Mar 2026 – Present, Tokyo, Japan_
+
+- Drives product management for Geolonia's location-technology platform, including the Geolonia Maps map delivery service.
+
 ### Helpfeel Inc., Product Manager / Software Engineer (Gyazo Team)
 
-_Jan 2019 – Present, Tokyo, Japan_
+_Jan 2019 – Feb 2026, Tokyo, Japan_
 
-- Leads product strategy and roadmap for Gyazo, mixing user research with analytics (BigQuery, MongoDB, Mixpanel).
-- Owns KPI setting and funnel analysis; runs experiments end to end to improve retention and revenue.
-- Acts as a hands-on PM/engineer: feasibility spikes, small prototypes, and delivery coordination across functions.
-- Guides a team of 5–6 full-time engineers (≈10 including contractors); practices agile delivery and pair programming.
+- Led product strategy and roadmap for Gyazo, mixing user research with analytics (BigQuery, MongoDB, Mixpanel).
+- Owned KPI setting and funnel analysis; ran experiments end to end to improve retention and revenue.
+- Acted as a hands-on PM/engineer: feasibility spikes, small prototypes, and delivery coordination across functions.
+- Guided a team of 5–6 full-time engineers (≈10 including contractors); practiced agile delivery and pair programming.
 - Gyazo operates at large scale (22M+ users, 3B+ items) as a profitable standalone service.
 
 ### Cerevo Inc., Software Engineer
