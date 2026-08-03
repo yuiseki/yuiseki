@@ -10,28 +10,33 @@ Tokyo, Japan
 
 ## Summary
 
-- Product manager and software engineer building user-facing products and data systems since 2010.
-- Hands-on with Python for backend and data processing, Linux/Docker, and REST API design and delivery.
-- Geospatial focus: OSM/Overpass, MapLibre, vector tiles (Planetiler, PMTiles), and browser-native spatial analysis (DuckDB + spatial).
+- Product manager for geospatial platforms, and a software engineer building user-facing products and data systems since 2010.
+- Currently PM at Geolonia, a location-technology company, after seven years leading product for Gyazo at Helpfeel.
+- Works across the open geospatial stack: OSM/Overpass, MapLibre, vector tiles (Planetiler, PMTiles), tile distribution, and browser-native spatial analysis (DuckDB + spatial).
+- Hands-on with Python for backend and data processing, Linux/Docker, AWS serverless delivery, and REST API design.
 - Proven at shaping roadmaps through research and analytics; comfortable leading small, cross-functional teams.
 - Active OSS contributor (UN Open GIS, MapLibre). Built TRIDENT, planetiler-ai, and related datasets for geo-aware LLMs.
 
 ## Skill set
 
 - Programming: Python, JavaScript, Ruby, Java; TypeScript; HTML/CSS
-- Data and analytics: BigQuery, MongoDB, Mixpanel
+- Data and analytics: BigQuery, Athena, DynamoDB, MongoDB, Mixpanel
 - Geospatial and GIS: OSM/Overpass API and Overpass QL, MapLibre, vector tiles/Planetiler, PMTiles, Charites, browser-side spatial analysis (DuckDB + spatial)
-- Platforms and infra: Linux, Docker; embedded Android; iOS/Android app development
+- Platforms and infra: Linux, Docker; AWS serverless (CloudFront, Lambda, S3); embedded Android; iOS/Android app development
+- Product operations: usage-based pricing design, metering and billing integration (Stripe)
 - Domains: GIS, NLP, web data mining/scraping, image processing/recognition, machine learning, deep learning, LLMs/Generative AI
 - Collaboration: Git/GitHub, code review, lightweight RFCs, documentation
 
 ## Work Experience (including intern)
 
-### Geolonia Inc., Product Manager
+### Geolonia Inc., Product Manager, Business Development Department
 
 _Mar 2026 – Present, Tokyo, Japan_
 
-- Drives product management for Geolonia's location-technology platform, including the Geolonia Maps map delivery service.
+- Owns product management for Geolonia Maps, the company's map delivery platform (vector tiles, map styles, and developer APIs).
+- Defines the product roadmap and usage-based pricing model, and validates the metering and billing pipeline end to end.
+- Sets KPIs and works across engineering, sales, and support to turn customer requirements into shipped features.
+- Acts as a hands-on PM: reviews pull requests, verifies behavior in staging environments, and builds prototypes directly.
 
 ### Helpfeel Inc., Product Manager / Software Engineer (Gyazo Team)
 
