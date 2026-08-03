@@ -85,7 +85,7 @@ _2008 – 2009_
 ## Open-source and Civic Tech Contributions (selected)
 
 - UN Open GIS Initiative / DWG-7 “Smart Maps” contributor
-  - Advanced an OSS-based Hybrid GIS aligned with UN PKO field requirements; promoted open web mapping and presented on GIS × Generative AI.
+  - Advanced an OSS-based Hybrid GIS aligned with UN PKO field requirements; promoted open web mapping.
   - FOIL4G (transferred to UNopenGIS org)
     - Storybook-based UI library for open data visualization; established reusable UI/API/task definitions to streamline adoption.
   - vt-optimizer-rs (donated to the UN Vector Tile Toolkit / UNVT org)
@@ -124,6 +124,8 @@ _2008 – 2009_
 - 2023-06-29: "Smart Maps for the UN and All - keeping web maps open", FOSS4G 2023, Prizren, Kosovo
   - 30-minute talk with Hidenori Fujimura on DWG-7 "Smart Maps" of the UN Open GIS Initiative: keeping web maps open for UN peacekeeping operations using PMTiles, COPC, COG, Raspberry Pi, and IPFS.
   - https://talks.osgeo.org/foss4g-2023/speaker/DEE8AD/
+- 2023: Practical use of large language models for UN operations (closed session, no public materials)
+  - Briefed United Nations Headquarters staff and UN peacekeeping technical staff on how to draw useful results out of the language models available at the time, and on where LLMs could realistically be applied in mission settings.
 
 ## Education / Degree
 
