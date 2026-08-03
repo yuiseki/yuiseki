@@ -40,40 +40,45 @@ _Mar 2026 – Present, Tokyo, Japan_
 - Sets KPIs and works across engineering, sales, and support to turn customer requirements into shipped features.
 - Acts as a hands-on PM: reviews pull requests, verifies behavior in staging environments, and builds prototypes directly.
 
-### Helpfeel Inc., Product Manager / Software Engineer (Gyazo Team)
+### Helpfeel Inc. (formerly Nota, Inc.), Product Manager / Software Engineer (Gyazo Team)
 
 _Jan 2019 – Feb 2026, Tokyo, Japan_
 
-- Led product strategy and roadmap for Gyazo, mixing user research with analytics (BigQuery, MongoDB, Mixpanel).
+- Gyazo is one of the world's largest screenshot and screen-recording sharing services, operating at scale (22M+ users, 3B+ items) as a profitable standalone product.
+- Joined as a software engineer, became project manager in Jan 2020, and product manager in Sep 2022.
+- Led product strategy and roadmap, mixing user research with analytics (BigQuery, MongoDB, Mixpanel).
 - Owned KPI setting and funnel analysis; ran experiments end to end to improve retention and revenue.
+- Directed development across every surface of the product: infrastructure (Google Cloud, MongoDB, MySQL, BigQuery, Elasticsearch, Docker, Kubernetes), web (Ruby on Rails, React), Windows (C++, C#, WPF), Android (Java, Kotlin), macOS (Objective-C, Swift), iOS (Swift), and browser extensions (JavaScript, TypeScript).
 - Acted as a hands-on PM/engineer: feasibility spikes, small prototypes, and delivery coordination across functions.
 - Guided a team of 5–6 full-time engineers (≈10 including contractors); practiced agile delivery and pair programming.
-- Gyazo operates at large scale (22M+ users, 3B+ items) as a profitable standalone service.
 
 ### Cerevo Inc., Software Engineer
 
 _Apr 2010 – Dec 2018, Tokyo, Japan_
 
-- 2017–2018: Lumigent
-  - Mobile apps (Android/iOS), MQTT/GStreamer integration; supported embedded Linux.
-- 2015–2016: Tipron
-  - Embedded Android and Android app; infrastructure on Linux/Docker/Shell/AWS.
-- 2015: OTTO
-  - Cloud and mobile stack using Node.js/Redis/Python/Flask/SQLAlchemy/MySQL; Android/iOS clients.
-- 2012: Alarm BRICK
-  - Server-side Python/Flask/SQLAlchemy/MySQL; front-end integration.
-- 2011–2012: iConvex
-  - iOS application (Objective-C).
-- 2011: LiveShell
-  - Server-side Python/Flask/SQLAlchemy/MySQL; front-end (Closure Library).
-- 2010: CEREVO CAM
-  - Server-side Python/Django/MySQL; front-end JavaScript/jQuery.
+Cerevo built network-connected consumer hardware. Each product below shipped to customers, and the software work spanned cloud services, mobile clients, and the firmware-adjacent layer on the devices themselves.
+
+- 2017–2018: Lumigent, a desk light with a built-in digital camera
+  - Built the Android and iOS applications (Java, Objective-C) including MQTT control and GStreamer video streaming; assisted the embedded Linux software work (Embedded Linux, Shell, Python).
+- 2015–2016: Tipron, a self-driving robot with a built-in projector
+  - Built the on-device embedded Android application (Android OS, Java, Jetty, Realm, kuromoji) and the companion Android app; owned infrastructure (Linux, Docker, Shell, AWS).
+- 2015: OTTO, a remotely controllable power strip
+  - Built the cloud service (Node.js, Redis, Python, Flask, SQLAlchemy, MySQL) and the Android/iOS clients (Java, Objective-C, WebView, Backbone.js).
+- 2012: Alarm BRICK, an alarm clock that syncs with online calendars
+  - Built the server side (Python, Flask, SQLAlchemy, MySQL) and the front end (JavaScript).
+- 2011–2012: iConvex, an iPhone case with a digital tape measure
+  - Built the iOS application (Objective-C).
+- 2011: LiveShell, a standalone device for internet live streaming
+  - Built the server side (Python, Flask, SQLAlchemy, MySQL) and the front end (JavaScript, Google Closure Library).
+- 2010: CEREVO CAM, a compact digital camera that uploads each shot the moment it is taken
+  - Built the server side (Python, Django, MySQL) and the front end (JavaScript, jQuery).
 
 ### Metacast Inc., Part-time Software Engineer (Intern/Part-time)
 
 _2008 – 2009_
 
-- Built server-side and front-end features for a lifelog/video service (Ruby on Rails/MySQL/JavaScript).
+- Mitter, a lifelog service that stored, analyzed, and visualized a user's viewing history across every online video service they used.
+  - Built the server side (Ruby on Rails, MySQL) and the front end (JavaScript).
 
 ## Open-source and Civic Tech Contributions (selected)
 
@@ -109,6 +114,18 @@ _2008 – 2009_
 
 - Keio University, Graduate School of Media and Governance (M.A./M.S.), 2008–2010
 - Musashi Institute of Technology (now Tokyo City University), B.S. in Environmental & Information Studies, 2004–2008
+
+## Publications
+
+- 2010: 街に着目した Twitter メッセージの自動収集と分析システムの提案と試作 (Proposal and prototype of a system for automatically collecting and analyzing city-focused Twitter messages), 電子情報通信学会
+  - https://www.interaction-ipsj.org/archives/paper2010/demo/0131/0131.pdf
+- 2010: 街に着目した Twitter 上のメッセージ分析について (On the analysis of city-focused messages on Twitter), Master's thesis, Keio University
+  - http://sfc.yasumura.org/master.html
+- 2008: ギークのコミュニティ: Web を媒介としたプログラミング学習環境 (Communities of geeks: web-mediated learning environments for programming), Bachelor's thesis, 武蔵工業大学 環境情報学部 情報メディアセンタージャーナル 2008.4 第 9 号
+  - http://www.yc.tcu.ac.jp/~cisj/09/09_05.pdf
+- 2007: グラフィティコミュニティのためのマップのデザイン (Designing maps for graffiti communities), 日本デザイン学会 第 54 回研究発表大会
+  - https://www.jstage.jst.go.jp/article/jssd/54/0/54_0_C16/_article/-char/ja/
+- 2007: コミュニティ形成のためのマルチレイヤーマップのデザイン: ライブハウスコミュニティを事例として (Designing multi-layer maps for community building: a case study of live music venue communities), 日本デザイン学会 第 54 回研究発表大会
 
 ## Award
 
