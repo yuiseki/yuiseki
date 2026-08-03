@@ -2,6 +2,8 @@
 
 Tokyo, Japan
 
+Pronouns: she/her
+
 - https://yuiseki.net/
 - Email: yuiseki@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yuiseki/
