@@ -24,8 +24,6 @@ Yui Matsumura is a product manager at Geolonia and an open source geospatial dev
 
 ## Summary
 
-- Product manager for geospatial platforms, and a software engineer building user-facing products and data systems since 2010.
-- Currently PM at Geolonia, a location-technology company, after seven years leading product for Gyazo at Helpfeel.
 - Works across the open geospatial stack: OSM/Overpass, MapLibre, vector tiles (Planetiler, PMTiles), tile distribution, and browser-native spatial analysis (DuckDB + spatial).
 - Hands-on with Python for backend and data processing, Linux/Docker, AWS serverless delivery, and REST API design.
 - Proven at shaping roadmaps through research and analytics; comfortable leading small, cross-functional teams.
