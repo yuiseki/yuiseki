@@ -79,21 +79,29 @@ _2008 – 2009_
   - Advanced an OSS-based Hybrid GIS aligned with UN PKO field requirements; promoted open web mapping and presented on GIS × Generative AI.
   - FOIL4G (transferred to UNopenGIS org)
     - Storybook-based UI library for open data visualization; established reusable UI/API/task definitions to streamline adoption.
+  - vt-optimizer-rs (donated to the UN Vector Tile Toolkit / UNVT org)
+    - Rust CLI to inspect and optimize MBTiles/PMTiles vector tiles; keeps compatibility with the original vt-optimizer while adding style-based pruning, PMTiles input/output, and per-layer size statistics.
 - MapLibre Organization
   - maplibre-native-slint
     - proposed a high-performance Rust/C++ map UI stack combining Slint and MapLibre Native; moved under the official org and standardized CI.
 - Code for Japan
+  - mapprint / 紙マップ (top contributor by commits)
+    - print-optimized map site that turns Google My Maps and uMap layers into paper maps of local support information, handed out at evacuation centers and city halls during disasters.
+    - built out internationalization (multilingual UI, category names, and locale fallbacks) and modernized the CI and package tooling; added a disaster map for the 2021 Atami landslide.
+    - migrated the application from Nuxt 2 to Nuxt 4 and replaced the unmaintained vue-mapbox with maplibre-gl, landing regression tests for the map logic before the migration.
   - covid19-surveyor
     - crowdsourced search tool aggregating national and local COVID-19 support programs to improve discoverability.
 - Personal OSS R&D
   - TRIDENT (natural language → Overpass QL → map visualization)
-    - rapid hypothesis testing with local inference via ollama; connects query generation, validation, and visualization.
-  - TRIDENT DuckDB (Wasm + spatial)
-    - browser-native local spatial analysis to reduce infra overhead while keeping exploration fast and reproducible.
+    - interactive assistant that turns conversation into live OpenStreetMap maps; splits the task across inner/surface/deep inference roles plus embeddings, served locally by llama.cpp with pgvector retrieval.
+  - text2geoql-dataset (dataset and model for geo-aware LLMs)
+    - synthetic dataset translating a TRIDENT intermediate language into Overpass QL; a LoRA fine-tune of Qwen2.5-Coder-0.5B reaches 100% (112/112) on a held-out set of queries verified to return results, and runs at 25.8 tok/s on a Raspberry Pi 5, making the pipeline viable fully offline. Dataset and GGUF model published on Hugging Face Hub.
+  - charites-ai (natural language → MapLibre style)
+    - generates JSON conforming to the MapLibre style specification from natural language instructions, building on @unvt/charites.
   - planetiler-ai (thematic vector tiles)
     - automated schema, tile generation, and distribution for domain-specific layers (rivers, railways, undersea cables, water stress, biodiversity).
-  - text2geoql-dataset
-    - 1,000+ pairs mapping natural language to a TRIDENT intermediate language and Overpass QL for geo-aware LLM research and implementation.
+  - planetarble (open global raster basemap)
+    - reproducible pipeline building a worldwide basemap from NASA/USGS Harmonized Landsat and Sentinel-2 imagery with Landsat Collection 2 cloud backfill and NOAA ETOPO bathymetry, shipped as a single PMTiles file; the whole stack stays license-free (public domain and CC0), with an AOI overlay architecture for high-resolution insets.
 
 ## Education / Degree
 
