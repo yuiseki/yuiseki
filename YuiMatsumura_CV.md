@@ -10,6 +10,18 @@ Pronouns: she/her
 - GitHub: https://github.com/yuiseki
 - X: https://x.com/yuiseki_
 
+## Biography
+
+Yui Matsumura is a product manager at Geolonia, a location technology company in Tokyo, where she works on Geolonia Maps. She has been building software since 2010, including seven years leading product for the screenshot sharing service Gyazo.
+
+She volunteers with the UN Open GIS Initiative in the Domain Working Group on Smart Maps, and has donated two of her own projects to United Nations organizations: FOIL4G, a UI library for open data visualization, and vt-optimizer-rs, a tool for inspecting and optimizing vector tiles, now maintained under the UN Vector Tile Toolkit. She is also a MapLibre committer and a long-time contributor to OpenStreetMap and to Code for Japan, where she works on mapprint, which turns online map layers into printed maps of support information handed out at evacuation centers after disasters.
+
+Her recent experiments ask how little hardware is enough for geospatial AI. TRIDENT turns conversation into OpenStreetMap queries, and its companion dataset trains a 0.5B parameter model that answers every held out query correctly while running on a Raspberry Pi, entirely offline.
+
+### Short version
+
+Yui Matsumura is a product manager at Geolonia and an open source geospatial developer based in Tokyo. She volunteers with the UN Open GIS Initiative, has donated FOIL4G and vt-optimizer-rs to United Nations organizations, and is a MapLibre committer. Her recent work explores how small a device can be and still run useful geospatial AI, including a 0.5B parameter model that turns natural language into OpenStreetMap queries offline on a Raspberry Pi.
+
 ## Summary
 
 - Product manager for geospatial platforms, and a software engineer building user-facing products and data systems since 2010.
