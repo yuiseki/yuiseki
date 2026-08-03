@@ -54,7 +54,9 @@ _Jan 2019 – Feb 2026, Tokyo, Japan_
 
 ### Cerevo Inc., Software Engineer
 
-_Apr 2010 – Dec 2018, Tokyo, Japan_
+_2009 – Dec 2018, Tokyo, Japan_
+
+Started part-time in 2009 while finishing graduate school, and joined full-time in Apr 2010.
 
 Cerevo built network-connected consumer hardware. Each product below shipped to customers, and the software work spanned cloud services, mobile clients, and the firmware-adjacent layer on the devices themselves.
 
@@ -117,8 +119,9 @@ _2008 – 2009_
 
 ## Publications
 
-- 2010: 街に着目した Twitter メッセージの自動収集と分析システムの提案と試作 (Proposal and prototype of a system for automatically collecting and analyzing city-focused Twitter messages), 電子情報通信学会
-  - https://www.interaction-ipsj.org/archives/paper2010/demo/0131/0131.pdf
+- 2010: 街に着目した Twitter メッセージの自動収集と分析システムの提案と試作 / Proposal and prototyping of Twitter crowling and analysing system for town information
+  - Presented with the same content at both 電子情報通信学会 WI2 研究会 (IEICE WI2) and インタラクション 2010 (IPSJ Interaction 2010).
+  - https://www.interaction-ipsj.org/archives/paper2010/demo/0131/0131.pdf (Interaction 2010 proceedings)
 - 2010: 街に着目した Twitter 上のメッセージ分析について (On the analysis of city-focused messages on Twitter), Master's thesis, Keio University
   - http://sfc.yasumura.org/master.html
 - 2008: ギークのコミュニティ: Web を媒介としたプログラミング学習環境 (Communities of geeks: web-mediated learning environments for programming), Bachelor's thesis, 武蔵工業大学 環境情報学部 情報メディアセンタージャーナル 2008.4 第 9 号

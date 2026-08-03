@@ -13,6 +13,15 @@
   - https://github.com/search?q=is%3Aissue+is%3Apublic+author%3Ayuiseki+-org%3Ayuiseki&type=issues
   - https://github.com/search?o=desc&q=is%3Apr+is%3Apublic+author%3Ayuiseki+-org%3Ayuiseki&s=created&type=pullrequests
 
+### My favorite quotes
+
+- Move fast and break things.
+- Done is better than perfect.
+- Worse is better than nothing.
+- Demo or Die, Deploy or Die.
+- Don’t ask for permission, beg for forgiveness.
+- Anyone who has never made a mistake has never tried anything new.
+
 ### Want to know more?
 
 My resume can be found here:
