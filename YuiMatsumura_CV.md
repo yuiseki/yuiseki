@@ -124,8 +124,9 @@ _2008 – 2009_
 - 2023-06-29: "Smart Maps for the UN and All - keeping web maps open", FOSS4G 2023, Prizren, Kosovo
   - 30-minute talk with Hidenori Fujimura on DWG-7 "Smart Maps" of the UN Open GIS Initiative: keeping web maps open for UN peacekeeping operations using PMTiles, COPC, COG, Raspberry Pi, and IPFS.
   - https://talks.osgeo.org/foss4g-2023/speaker/DEE8AD/
-- 2023: Practical use of large language models for UN operations (closed session, no public materials)
+- 2023: Practical use of large language models for UN operations (closed online session, no public materials)
   - Briefed United Nations Headquarters staff and UN peacekeeping technical staff on how to draw useful results out of the language models available at the time, and on where LLMs could realistically be applied in mission settings.
+  - Because the session was held online, technical staff were able to join from peacekeeping missions around the world.
 
 ## Education / Degree
 
